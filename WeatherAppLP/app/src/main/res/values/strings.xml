@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherAppLP</string>
+
+    <!-- Text for MainActivity button -->
+    <string name="button_text">Check The Weather!</string>
+
+    <!-- Text displayed on MainActivity on launch -->
+    <string name="opening_message">Please Press the Button :)</string>
+
+    <!-- String to display temperature information -->
+    <string name="weather_message">The weather in Houston Texas is \n %2.1f \u2103</string>
+
+    <!-- Toast Message shown when retrieving the weather -->
+    <string name="toast_message">I love me some weather</string>
+</resources>
