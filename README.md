@@ -12,3 +12,4 @@ Create an app that has one button. When the button is pressed, the current tempe
 - Assumption: The user will not check the weather more than every 10 minutes.
 - Comment: The API claims it only allows the user to check the weather every 10 minutes, however, in my testing, it seemed to work sometimes when checking multiple times within a 10 minute window.
 - Comment: I hope you enjoy the toast messsage! :)
+- Comment: Network code is adapted from https://www.udacity.com/course/new-android-fundamentals--ud851
